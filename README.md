@@ -11,10 +11,14 @@ I care about shipping systems that produce a measurable number, not just code th
 
 ## 🔧 What I Work With
 
-**Machine Learning:** PyTorch, scikit-learn, NumPy, Pandas
-**Computer Vision:** ResNet-based architectures, re-identification pipelines, Market-1501 benchmark
-**Languages:** Python
-**Foundations:** Classification & regression (Andrew Ng's ML course), applied data analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/ResNet_Architectures-8A2BE2?style=flat-square&logo=pytorch&logoColor=white&border_radius=10" />
+</p>
 
 ## 🚀 What I'm Building
 
