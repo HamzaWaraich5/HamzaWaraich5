@@ -22,8 +22,16 @@ I care about shipping systems that produce a measurable number, not just code th
 
 ## 🚀 What I'm Building
 
-**Person Re-Identification System** — PyTorch + ResNet50 on Market-1501
-A full re-ID pipeline built from scratch: data pipeline, backbone fine-tuning, evaluation against standard Re-ID metrics. Currently at **61% Rank-1 accuracy**, actively iterating on loss functions and sampling strategy to push toward 80%+.
+Person Re-Identification System — PyTorch + ResNet50 on Market-1501
+
+A robustness study of Re-ID systems for assistive robot deployment.
+Tested under blur, occlusion, low-light, viewpoint changes and 
+adversarial attacks. Developed a two-tier defense strategy combining 
+PGD adversarial training with lightweight preprocessing defenses.
+
+Results: 74.05% baseline → 77.55% after PGD training
+Occlusion robustness: 13% → 33% with adversarial training
+All defenses under 4ms overhead for embedded hardware
 → [View repo](#)
 
 ## 📚 Background
